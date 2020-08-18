@@ -85,6 +85,11 @@ This data may be collected when authorizing an application, such as when logging
 
 <hr>
 
+### Questions and Concerns
+If you are concerned about the data stored, DM XxMirayxX21#3561 on Discord.
+
+<hr>
+
 ### Feedback
 Feedback on any and all provided Discord Bots Applications and Seevices is appreciated.
 
