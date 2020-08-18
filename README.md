@@ -1,4 +1,4 @@
-## MirayXS | Research Lab
+## MirayXS | Research Lab | XxMirayxX21#3561 `(325605285731500033)`
 
 [![](https://discordapp.com/api/guilds/735182703871262820/embed.png?style=banner2)](https://discord.gg/CkdjnCR)
 
