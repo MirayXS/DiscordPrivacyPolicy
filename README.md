@@ -48,7 +48,7 @@ It does not apply to information collected by:
 <hr>
 
 ### Discord Bots Applications
-The following is a list of bots to which this privacy policy applies.
+The following is a list of Discord Bots Applications to which this privacy policy applies.
 * **SplatNET**#0741 `(720254825815736410)`
 * **NovaCrypt**#7682 `(693535915775099000)`
 * **Mirayyh Ultimate**#7903 `(698244623193079838)`
