@@ -59,9 +59,29 @@ The following is a list of Discord Bots Applications to which this privacy polic
 <hr>
 
 ### Terminology
-* **Server Manager** - Anyone who has the ability to add a bot to a server or configure the bot for the server. This is usually an administrator or moderator
-* **Server Member** - Anyone who is a member of server to which one of the bots has been added
-* **Service User** - Anyone who authorizes an application (logs in) for a scope that provides additional information
+
+| Term | Description |
+|--------|------------------------------|
+| Terms | The main Terms of Service of the Discord Bot Application or Service |
+| Policy | The privacy policy |
+| Owner | The Developer and official owner of the Discord Bot Applications or Services ( MirayXS \| XxMirayxX21#3561 ) |
+| Discord Bot Application | The Discord Bots |
+| Guild | The Discord Server the Discord Bot Application may get invited and used in |
+| Server Manager | Anyone who has the ability to add a bot to a server or configure the bot for the server. This is usually an administrator or moderator |
+| Server Member | Anyone who is a member of server to which one of the bots has been added |
+| Service User | Anyone who authorizes an application (logs in) for a scope that provides additional information |
+
+<hr>
+
+## Discord Bot Applications | Terms Of Service
+### These terms apply when authorizing or using the Discord Bot Applications.
+
+#### Intended age
+The Bot may not be used by individuals under the age of 13 years.
+
+Furthermore is the usage of commands categorized as NSFW (Not safe for Work) not allowed for individuals under the legal age of maturity in their country.
+
+The Owner cannot be made responsible for underaged individuals using the bot and breaking the terms.
 
 <hr>
 
@@ -73,15 +93,17 @@ The following items may be collected and stored when intentionally provided by a
 
 ### Data Collected When Enabled
 These items will be automatically collected if a bot is configured to perform certain actions by a server manager.
-* Guild Logs entrance ( `BOT` Leaves or Joins )
+* Guild Logs entrance ( `DISCORD BOT APPLICATION` Leaves or Joins )
 
-### Data Collected Automatically
-This data may be collected automatically by some bots. This data is used to provide statistics or history data. For any bots that collect this data, it is necessary for features of said bot.
+### Data Collected Automatically 
+<!-- This data may be collected automatically by some bots. This data is used to provide statistics or history data. For any bots that collect this data, it is necessary for features of said bot. -->
+The Discord Bot Applications automatically store the Guild Information.
 
-### Data Collected via Authorization
-This data may be collected when authorizing an application, such as when logging in to a site via Discord Oauth2. This data is also outlined on the authorization page.
-* Username, Discord ID, Avatar Data
-* Guild Name, Guild ID, Guild Icon Data
+* Guild ID
+* Guild Name
+* Guild Icon Data
+* Guild Owner; Owner Username, Owner ID
+* Guild MemberCount
 
 <hr>
 
@@ -113,5 +135,5 @@ If you, the service user, do not agree to this document, you may revoke authoriz
 ------------
 <p align="center">
   This Privacy Policy Was Last Updated: 
-  <b>August 18th, 2020</b>.
+  <b>August 19th, 2020</b>.
 </p>
