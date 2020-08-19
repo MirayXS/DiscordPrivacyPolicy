@@ -94,8 +94,13 @@ The Discord Bot Applications automatically store the Guild Information.
 * Guild ID
 * Guild Name
 * Guild Icon Data
-* Guild Owner; Owner Username, Owner ID
+* Guild Owner
+  * Guild Owner Username
+  * Guild Owner User ID
 * Guild MemberCount
+  * Guild Total MemberCount
+  * Guild User MemberCount
+  * Guild Bots MemberCount
 
 <hr>
 
