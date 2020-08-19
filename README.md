@@ -87,14 +87,6 @@ The Owner cannot be made responsible for underaged individuals using the bot and
 
 ## THE INFORMATION WE COLLECT AND HOW WE COLLECT IT
 
-### Data Collected By Command
-The following items may be collected and stored when intentionally provided by a user (usually by means of a command). This data will not be collected automatically. When providing data in this way, you forego any rights to the content of the data provided.
-* Archives of messages
-
-### Data Collected When Enabled
-These items will be automatically collected if a bot is configured to perform certain actions by a server manager.
-* Guild Logs entrance ( `DISCORD BOT APPLICATION` Leaves or Joins )
-
 ### Data Collected Automatically 
 <!-- This data may be collected automatically by some bots. This data is used to provide statistics or history data. For any bots that collect this data, it is necessary for features of said bot. -->
 The Discord Bot Applications automatically store the Guild Information.
