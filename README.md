@@ -129,8 +129,17 @@ If you, the server member, do not agree to this document, you may leave the serv
 If you, the service user, do not agree to this document, you may revoke authorization of the application(s) in your 'Authorized Apps' menu
 - or kick the Discord Bots Applications.
 
+<hr>
+
+### Removal of Data
+
+Stored Information may be removed by one of the below methods:
+
+- Kicking or Banning the Bot from your Guild.
+> Note that the bot has to be online to remove the data successfully.
+
 ------------
 <p align="center">
   This Privacy Policy Was Last Updated: 
-  <b>August 19th, 2020</b>.
+  <b>September 3rd, 2020</b>.
 </p>
