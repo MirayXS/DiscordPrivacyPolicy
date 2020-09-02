@@ -3,10 +3,8 @@
 [![](https://discordapp.com/api/guilds/735182703871262820/embed.png?style=banner2)](https://discord.gg/CkdjnCR)
 
 # Privacy Policy
-
-This document entails the privacy policy and agreement that you accept when adding any of Miray's bots applications to a server, or as a member of such a server.
-
-This document does not supersede the [Developer Terms of Service](https://discordapp.com/developers/docs/legal).
+######  This document entails the privacy policy and agreement that you accept when adding any of Miray's bots applications to a server
+> ##### This document does not supersede the [Developer Terms of Service](https://discordapp.com/developers/docs/legal).
 * By using our Discord Bots Applications or Services, you agree that you have read and agree to this policy.
 
 <hr>
