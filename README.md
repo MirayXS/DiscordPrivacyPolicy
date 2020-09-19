@@ -46,7 +46,7 @@ The Owner cannot be made responsible for underaged individuals using the bot and
 
 ## THE INFORMATION WE COLLECT AND HOW WE COLLECT IT
 ### Data Collected Automatically 
-The Discord Bot Applications automatically store the Guild Information.
+The Discord Bot Applications automatically store the Guild Information on a Guild join.
 * Guild ID
 * Guild Name
 * Guild Icon Data
@@ -57,6 +57,11 @@ The Discord Bot Applications automatically store the Guild Information.
   * Guild Total MemberCount
   * Guild User MemberCount
   * Guild Bots MemberCount
+  
+### Updating of stored information
+No information will be automatically changed.
+
+Guild Information will be automatically chaged when the Discord Bot Applications get's **unauhtorized** from the Guild.
 
 <hr>
 
@@ -75,5 +80,5 @@ Stored Information may be removed by one of the below methods:
 ------------
 <p align="center">
   This Privacy Policy Was Last Updated: 
-  <b>September 3rd, 2020</b>.
+  <b>September 19th, 2020</b>.
 </p>
