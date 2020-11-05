@@ -44,7 +44,7 @@ The Owner cannot be made responsible for underaged individuals using the bot and
 
 <hr>
 
-## THE INFORMATION WE COLLECT AND HOW WE COLLECT IT
+<!-- ## THE INFORMATION WE COLLECT AND HOW WE COLLECT IT
 ### Data Collected Automatically 
 The Discord Bot Applications automatically store the Guild Information on a Guild join.
 * Guild ID
@@ -63,7 +63,7 @@ No information will be automatically changed.
 
 Guild Information will be automatically chaged when the Discord Bot Applications get's **unauhtorized** from the Guild.
 
-<hr>
+<hr> -->
 
 ### Questions and Concerns
 If you are concerned about the data stored, DM XxMirayxX21#3561 on Discord.
@@ -80,5 +80,13 @@ Stored Information may be removed by one of the below methods:
 ------------
 <p align="center">
   This Privacy Policy Was Last Updated: 
-  <b>September 19th, 2020</b>.
+  <b>November 5th, 2020</b>.
+ 
+ > * This Privacy Policy Was Updated:
+ >> REMOVING THE FOLLOWING:
+ >>> - THE INFORMATION WE COLLECT AND HOW WE COLLECT IT
+ >>>> - Data Collected Automatically
+ >>>> - Updating of stored information
+ 
+ >  ```On October 7, Discord started enforcing bot verification and some intents restrictions.```
 </p>
