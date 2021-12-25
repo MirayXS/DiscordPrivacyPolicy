@@ -24,7 +24,6 @@ Policy                   : The privacy policy
 Owner                    : The Developer and official owner of the Discord Bot Applications or Services ( MirayXS \| hxd#3561 )
 Discord Bot Application  : The Discord Bots
 Guild                    : The Discord Server the Discord Bot Application may get invited and used in
-<hr>
 
 
 ** Discord Bot Applications | Terms Of Service **
