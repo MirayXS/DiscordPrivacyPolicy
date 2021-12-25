@@ -1,7 +1,11 @@
-## MirayXS | Research Lab | XxMirayxX21#3561 `(325605285731500033)`
+<h3>MirayXS | Scripted Community / Research Lab | hxd#3561 <code>(325605285731500033)</code></h3>
+<sup>Discord Bots Privacy Policy</sup> <br />
+<sup>Copyright © Scripted Community / Research Lab. - All rights reserved.</sup> <br /> <br />
+<sup>Last Revised: December 25th, 2021</sup>
 
-[![](https://discordapp.com/api/guilds/735182703871262820/embed.png?style=banner2)](https://discord.gg/CkdjnCR)
+<!-- [![](https://discordapp.com/api/guilds/735182703871262820/embed.png?style=banner2)](https://discord.gg/CkdjnCR) -->
 
+___
 # Privacy Policy
 ######  This document entails the privacy policy and agreement that you accept when adding any of Miray's bots applications to a server
 > ##### This document does not supersede the [Developer Terms of Service](https://discordapp.com/developers/docs/legal).
@@ -14,9 +18,6 @@ The following is a list of Discord Bots Applications to which this privacy polic
 * **SplatNET**#0741 `(720254825815736410)`
 * **NovaCrypt**#7682 `(693535915775099000)`
 * **Mirayyh Ultimate**#7903 `(698244623193079838)`
-* **Mirayyh**#9649 `(619578712752390175)`
-* **UnityNite**#9355 `(736281159264239687)`
-* **Hybrid**#8801 `(736246614800203816)`
 
 <hr>
 
@@ -26,7 +27,7 @@ The following is a list of Discord Bots Applications to which this privacy polic
 |--------|------------------------------|
 | Terms | The main Terms of Service of the Discord Bot Application or Service |
 | Policy | The privacy policy |
-| Owner | The Developer and official owner of the Discord Bot Applications or Services ( MirayXS \| XxMirayxX21#3561 ) |
+| Owner | The Developer and official owner of the Discord Bot Applications or Services ( MirayXS \| hxd#3561 ) |
 | Discord Bot Application | The Discord Bots |
 | Guild | The Discord Server the Discord Bot Application may get invited and used in |
 
@@ -66,7 +67,7 @@ Guild Information will be automatically chaged when the Discord Bot Applications
 <hr>
 
 ### Questions and Concerns
-If you are concerned about the data stored, DM XxMirayxX21#3561 on Discord.
+If you are concerned about the data stored, DM hxd#3561 on Discord.
 
 <hr>
 
@@ -80,5 +81,5 @@ Stored Information may be removed by one of the below methods:
 ------------
 <p align="center">
   This Privacy Policy Was Last Updated: 
-  <b>September 19th, 2020</b>.
+  <b>December 25th, 2021</b>.
 </p>
