@@ -1,15 +1,55 @@
 <h3>MirayXS | Scripted Community / Research Lab | hxd#3561 <code>(325605285731500033)</code></h3>
 <sup>Discord Bots Privacy Policy</sup> <br />
 <sup>Copyright © Scripted Community / Research Lab. - All rights reserved.</sup> <br /> <br />
-<sup>Last Revised: December 25th, 2021</sup>
+<sup>Last Revised: January 4th, 2022</sup>
 
 <!-- [![](https://discordapp.com/api/guilds/735182703871262820/embed.png?style=banner2)](https://discord.gg/CkdjnCR) -->
 
 ___
-# Privacy Policy
+# PRIVACY POLICY
 ######  This document entails the privacy policy and agreement that you accept when adding any of Miray's bots applications to a server
 > ##### This document does not supersede the [Developer Terms of Service](https://discordapp.com/developers/docs/legal).
 >> #### * By using our Discord Bots Applications or Services, you agree that you have read and agree to this policy.
+
+```
+We may update this Privacy Policy from time to time.
+Changes in our Privacy Policy will be effective immediately.
+If you are a regular user of the bot(s) or the services, we recommend that you check this Privacy Policy on a regular basis.
+By using the bot(s) or the services, you consent to the collection, use and transfer of your information in accordance with this Privacy Policy.
+If you do not agree to this Privacy Policy, please do not use our bot(s) and services.
+```
+
+```
+This is our "Privacy Policy" which sets out the policy which governs our use of information you provide in connection with our bot(s) and/or services.
+The terms "we," "us," "our," refer to our services and bots and "bot" refers to our Discord bot itself.
+```
+
+<hr>
+
+# PRIVACY STATEMENT
+
+```
+We respect the privacy of your information.
+We provide this explanation about our information practices as a show of our commitment to protect your privacy.
+This policy describes the types of information we may collect from you or that you may provide when you invite our bot(s) or use our services and our practices for collecting, using, maintaining, protecting and disclosing that information.
+```
+
+This policy applies to information we collect:
+
+- via our Bot:
+  - If and when available, when it's invited.
+
+It does not apply to information collected by:
+
+- us offline or through any other means
+
+```
+Please read this policy carefully to understand our policies and practices regarding your information and how we treat it.
+If you do not agree with our policies and practices, your choice is not to use our services or bots.
+By using this service/bot, you agree to this privacy policy.
+This policy may change from time to time as needed.
+Your continued use of this service and/or bot after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
+```
 
 <hr>
 
@@ -81,5 +121,5 @@ Stored Information may be removed by one of the below methods:
 ------------
 <p align="center">
   This Privacy Policy Was Last Updated: 
-  <b>December 25th, 2021</b>.
+  <b>January 4th, 2022</b>.
 </p>
