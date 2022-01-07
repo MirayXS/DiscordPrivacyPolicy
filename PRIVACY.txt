@@ -1,8 +1,10 @@
 // ********************************************************************
+//
 // MirayXS | Scripted Community / Research Lab | hxd#3561 (325605285731500033)
 // Discord Bots Privacy Policy
 // Copyright (c) Scripted Community / Research Lab. - All rights reserved.
 // Last Revised: December 25th, 2021
+//
 // ********************************************************************
 
 
